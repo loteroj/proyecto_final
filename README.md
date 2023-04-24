@@ -8,7 +8,7 @@ Login, Logout y SignUp de usuario
 Home
 
 En /api/usuario
-
+ <img src="https://github.com/loteroj/proyecto_final/blob/main/capturas/Logged.png" alt="proyectofinal">
     ✅ Si el usuario esta loggeado:
 
 logged user
